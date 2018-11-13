@@ -4,10 +4,10 @@ A pocket helper for all comic lovers! The application contains a plenty of featu
 
 All comic related data provided by [Comic Vine API](https://comicvine.gamespot.com/api/).
 
-![Screen](https://raw.githubusercontent.com/djkovrik/Comicser/master/images/poster.jpg)
+![Screen](https://github.com/cpt-r3tr0/Android/blob/master/Comicser/images/poster.jpg)
 
 ### Installation instructions
-* Clone this repository using `git clone git@github.com:djkovrik/Comicser.git` command
+* Clone this repository using.
 * Add **API_KEY** into your *gradle.properties* file (you can obtain a new API key [here](https://comicvine.gamespot.com/api/))
 * Now you can build and install release version of the app using `installRelease` gradle task
 
